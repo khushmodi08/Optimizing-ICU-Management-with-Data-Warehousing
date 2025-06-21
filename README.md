@@ -96,8 +96,9 @@ This project delivers a fully functional healthcare data warehouse leveraging th
 - Weekday vs. weekend trends, seasonal surges  
 
 <p align="center">
-  <img src="images/resource_utilization.png" alt="Hospital Resource Utilization Dashboard" width="700" />
+  <img src="Picture3.jpg" alt="Picture3" width="700" />
 </p>
+
 
 ---
 
