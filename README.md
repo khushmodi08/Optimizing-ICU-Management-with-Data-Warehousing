@@ -2,7 +2,7 @@
 
 🏥 **ICU Data Warehouse – Optimizing Critical Care with MIMIC-III**
 
-This project delivers a fully functional healthcare data warehouse leveraging the MIMIC-III Clinical Database to enhance ICU resource management, mortality prediction, and medication tracking. Built using Snowflake, SQL, and Power BI, the solution adopts an ELT architecture with structured modeling layers and automated BI insights.
+This project delivers a fully functional healthcare data warehouse leveraging the MIMIC-III Clinical Database to enhance ICU resource management, mortality prediction, and medication tracking. Built using Snowflake, SQL, and Power BI, the solution adopts an ETL architecture with structured modeling layers and automated BI insights.
 
 ---
 
