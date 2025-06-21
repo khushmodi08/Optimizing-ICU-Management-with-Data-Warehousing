@@ -77,7 +77,7 @@ This project delivers a fully functional healthcare data warehouse leveraging th
   Analyze mortality by age group, unit type, admission type  
   Identify patterns in prolonged ICU stays  
 <p align="center">
-  <img src="images/Picture1.jpg" alt="Description of Picture1" width="600"/>
+  <img src="Picture1.jpg" alt="Description of Picture1" width="600"/>
 </p>
 
 ## 2. Medication Usage Trends
