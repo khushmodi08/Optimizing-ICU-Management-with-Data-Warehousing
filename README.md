@@ -78,4 +78,33 @@ This project delivers a fully functional healthcare data warehouse leveraging th
 
 ---
 
-*Built with :snowflake: Snowflake, :snake: SQL, and :bar_chart: Power BI*  
+## 📈 Outcomes
+
+- Reduced analytical overhead with a structured data model  
+- Enabled quick querying of ICU trends and medication risks  
+- Provided real-time dashboard access to clinical stakeholders  
+
+---
+
+## 🔮 Future Work
+
+- Add real-time ingestion for operational decisions  
+- Integrate ML for mortality or LOS prediction  
+- Build clinician-facing portal for dashboard access  
+
+---
+
+## 👥 Team
+
+**Project Team: Warehouse Wizards**  
+Kushal Modi • Simran Ghandhi • Bhavesh Purohit   
+
+---
+
+## 📎 Resources
+
+- MIMIC-III Database: [https://physionet.org/content/mimiciii/](https://physionet.org/content/mimiciii/)  
+- Power BI Dashboards: [Insert dashboard links when hosted]  
+
+---
+
