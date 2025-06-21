@@ -72,12 +72,35 @@ This project delivers a fully functional healthcare data warehouse leveraging th
 
 ## BI Dashboards (Power BI)
 
-- ICU Mortality & Length of Stay  
+## 1. ICU Mortality & Length of Stay  
+
   Analyze mortality by age group, unit type, admission type  
   Identify patterns in prolonged ICU stays  
 <p align="center">
   <img src="images/Picture1.jpg" alt="Description of Picture1" width="600"/>
 </p>
+
+## 2. Medication Usage Trends
+
+- Track high-risk drugs across demographics and seasons  
+- Filter by ICU type, route, and dosage patterns  
+
+<p align="center">
+  <img src="images/medication_trends.png" alt="Medication Usage Trends Dashboard" width="700" />
+</p>
+
+## 3. Hospital Resource Utilization
+
+- ICU occupancy rates and care unit capacity  
+- Weekday vs. weekend trends, seasonal surges  
+
+<p align="center">
+  <img src="images/resource_utilization.png" alt="Hospital Resource Utilization Dashboard" width="700" />
+</p>
+
+---
+
+💡 All dashboards are built directly on Snowflake-modeled views using live connections.
 
 
 ---
