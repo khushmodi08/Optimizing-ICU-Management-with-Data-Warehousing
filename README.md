@@ -77,7 +77,7 @@ This project delivers a fully functional healthcare data warehouse leveraging th
   Analyze mortality by age group, unit type, admission type  
   Identify patterns in prolonged ICU stays  
 <p align="center">
-  <img src="Picture1.jpg" alt="Description of Picture1" width="600"/>
+  <img src="Picture1.jpg" alt="Hospital Resource Utilization Dashboard" width="700" />
 </p>
 
 ## 2. Medication Usage Trends
@@ -86,7 +86,7 @@ This project delivers a fully functional healthcare data warehouse leveraging th
 - Filter by ICU type, route, and dosage patterns  
 
 <p align="center">
-  <img src="Picture2.jpg" alt="Picture2" width="700" />
+  <img src="Picture2.jpg" alt="Medication Usage Trends" width="700" />
 </p>
 
 
@@ -96,7 +96,7 @@ This project delivers a fully functional healthcare data warehouse leveraging th
 - Weekday vs. weekend trends, seasonal surges  
 
 <p align="center">
-  <img src="Picture3.jpg" alt="Picture3" width="700" />
+  <img src="Picture3.jpg" alt="Hospital Resource Utilization" width="700" />
 </p>
 
 
