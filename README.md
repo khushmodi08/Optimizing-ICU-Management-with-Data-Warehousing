@@ -86,8 +86,9 @@ This project delivers a fully functional healthcare data warehouse leveraging th
 - Filter by ICU type, route, and dosage patterns  
 
 <p align="center">
-  <img src="images/medication_trends.png" alt="Medication Usage Trends Dashboard" width="700" />
+  <img src="Picture2.jpg" alt="Picture2" width="700" />
 </p>
+
 
 ## 3. Hospital Resource Utilization
 
